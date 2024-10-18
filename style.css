@@ -23,7 +23,7 @@ nav {
   left: 0;
   background-color: black;
   color: white;
-  font-size: 2rem;
+  font-size: 1.5rem;
   display: flex;
   justify-content: space-between;
   user-select: none;
@@ -46,7 +46,7 @@ nav > div {
 
 #right-nav > div {
   padding: 5px 10px;
-  font-size: 2rem;
+  font-size: 1.5rem;
   cursor: pointer;
 }
 
